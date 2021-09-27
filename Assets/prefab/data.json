@@ -1,0 +1,53 @@
+{
+  "warriors": [
+    {"abbr": "K1", "team": 0, "number": 1, "initiative": 8, "speed": 4},
+    {"abbr": "K2", "team": 0, "number": 2, "initiative": 8, "speed": 4},
+    {"abbr": "K3", "team": 0, "number": 3, "initiative": 9, "speed": 5},
+    {"abbr": "K4", "team": 0, "number": 4, "initiative": 4, "speed": 3},
+    {"abbr": "K5", "team": 0, "number": 5, "initiative": 2, "speed": 3},
+    {"abbr": "K6", "team": 0, "number": 6, "initiative": 3, "speed": 4},
+    {"abbr": "K7", "team": 0, "number": 7, "initiative": 1, "speed": 1},
+
+    {"abbr": "C1", "team": 1, "number": 1, "initiative": 6, "speed": 6},
+    {"abbr": "C2", "team": 1, "number": 2, "initiative": 8, "speed": 5},
+    {"abbr": "C3", "team": 1, "number": 3, "initiative": 9, "speed": 5},
+    {"abbr": "C4", "team": 1, "number": 4, "initiative": 8, "speed": 4},
+    {"abbr": "C5", "team": 1, "number": 5, "initiative": 2, "speed": 3},
+    {"abbr": "C6", "team": 1, "number": 6, "initiative": 4, "speed": 2},
+    {"abbr": "C7", "team": 1, "number": 7, "initiative": 1, "speed": 1}
+  ],
+
+  "first": [
+    {"abbr": "K3", "team": 0, "number": 3, "initiative": 9, "speed": 5},
+    {"abbr": "C3", "team": 1, "number": 3, "initiative": 9, "speed": 5},
+    {"abbr": "C2", "team": 1, "number": 2, "initiative": 8, "speed": 5},
+    {"abbr": "K1", "team": 0, "number": 1, "initiative": 8, "speed": 4},
+    {"abbr": "K2", "team": 0, "number": 2, "initiative": 8, "speed": 4},
+    {"abbr": "C4", "team": 1, "number": 4, "initiative": 8, "speed": 4},
+    {"abbr": "C1", "team": 1, "number": 1, "initiative": 6, "speed": 6},
+    {"abbr": "K4", "team": 0, "number": 4, "initiative": 4, "speed": 3},
+    {"abbr": "C6", "team": 1, "number": 6, "initiative": 4, "speed": 2},
+    {"abbr": "K6", "team": 0, "number": 6, "initiative": 3, "speed": 4},
+    {"abbr": "К5", "team": 0, "number": 5, "initiative": 2, "speed": 3},
+    {"abbr": "С5", "team": 1, "number": 5, "initiative": 2, "speed": 3},
+    {"abbr": "K7", "team": 0, "number": 7, "initiative": 1, "speed": 1},
+    {"abbr": "C7", "team": 1, "number": 7, "initiative": 1, "speed": 1}
+  ],
+
+  "second": [
+    {"abbr": "C3", "team": 1, "number": 3, "initiative": 9, "speed": 5},
+    {"abbr": "K3", "team": 0, "number": 3, "initiative": 9, "speed": 5},
+    {"abbr": "C2", "team": 1, "number": 2, "initiative": 8, "speed": 5},
+    {"abbr": "C4", "team": 1, "number": 4, "initiative": 8, "speed": 4},
+    {"abbr": "K1", "team": 0, "number": 1, "initiative": 8, "speed": 4},
+    {"abbr": "K2", "team": 0, "number": 2, "initiative": 8, "speed": 4},
+    {"abbr": "C1", "team": 1, "number": 1, "initiative": 6, "speed": 6},
+    {"abbr": "K4", "team": 0, "number": 4, "initiative": 4, "speed": 3},
+    {"abbr": "C6", "team": 1, "number": 6, "initiative": 4, "speed": 2},
+    {"abbr": "K6", "team": 0, "number": 6, "initiative": 3, "speed": 4},
+    {"abbr": "С5", "team": 1, "number": 5, "initiative": 2, "speed": 3},
+    {"abbr": "К5", "team": 0, "number": 5, "initiative": 2, "speed": 3},
+    {"abbr": "C7", "team": 1, "number": 7, "initiative": 1, "speed": 1},
+    {"abbr": "K7", "team": 0, "number": 7, "initiative": 1, "speed": 1}
+  ]
+}
