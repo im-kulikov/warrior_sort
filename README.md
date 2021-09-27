@@ -1,5 +1,7 @@
 # Симулятор очереди ходов воинов
 
+![Результат](.github/result.png)
+
 Задача - просимулировать очередь ходов в пошаговом бое и построить порядок хода от текущего воина на 20 шагов вперед.
 
 В бою принимаю участие две армии: Красные и Синие.
@@ -11,7 +13,11 @@
 
 <table cellpadding="0" cellspacing="0" border="0">
 <tr>
-<td width="30%" style="border: none!important;"><img src=".github/example.png" alt="пример"></td>
+<td width="30%" style="border: none!important;">
+
+![Пример](.github/example.png)
+
+</td>
 <td style="border: none!important;">
 Нужно вывести на экран порядок хода на ближайшие 20 ходов. Самый
 верхний - воин который сейчас ходит. Отобразить конец раунда.
